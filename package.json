@@ -1,0 +1,16 @@
+{
+  "name": "express-knex-mailer",
+  "version": "0.0.1",
+  "description": "Mailer service for Express-knex API Server project",
+  "main": "babel-node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "deksden",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "standard": "^12.0.1"
+  }
+}
